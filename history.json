@@ -1,0 +1,794 @@
+{
+  "title": "The history of bat sonar",
+  "tagline": "From blinded bats in 1793 to a moth that jams their sonar: how people found out that bats see with sound.",
+  "intro": "For 150 years, people knew that bats could fly in the dark and that their ears mattered, but nobody knew why. The answer needed a machine to detect sound we cannot hear. Once Harvard students had one, they found a whole sense, and later work found it in dolphins, birds, and a long arms race with moths. Some details, such as who first guessed what, are still argued over, and the sources say so where they differ.",
+  "eras": [
+    {
+      "id": "sense",
+      "name": "A sense nobody could name",
+      "from": 1793,
+      "to": 1920,
+      "color": "#c49bff",
+      "summary": "Blinded bats still fly, deafened bats crash. For 150 years nobody can say how bats steer in the dark."
+    },
+    {
+      "id": "sound",
+      "name": "Hearing the unheard",
+      "from": 1938,
+      "to": 1946,
+      "color": "#a3e635",
+      "summary": "An ultrasound detector and a bat ear test at Harvard show that bats shout above our hearing and listen for the echoes."
+    },
+    {
+      "id": "more",
+      "name": "Dolphins, birds and hunting bats",
+      "from": 1947,
+      "to": 1968,
+      "color": "#8ef0ff",
+      "summary": "Echolocation turns out to be a way of catching insects, and other animals use it too, from dolphins to cave birds."
+    },
+    {
+      "id": "brain",
+      "name": "Brain maps and field studies",
+      "from": 1968,
+      "to": 2008,
+      "color": "#ffb547",
+      "summary": "Researchers find how bats compensate for their own speed and how the cortex maps echo delay, and they record wild bats in the field."
+    },
+    {
+      "id": "war",
+      "name": "Moths, whispers and a fungus",
+      "from": 1962,
+      "to": 2012,
+      "color": "#ff7a59",
+      "summary": "Moths hear bats, tiger moths jam them, some bats whisper, and a new fungus begins to kill hibernating bats."
+    }
+  ],
+  "events": [
+    {
+      "year": 1793,
+      "date": "1793",
+      "era": "sense",
+      "art": "night",
+      "key": true,
+      "title": "An Italian scientist blinds some bats and they still fly",
+      "who": "Lazzaro Spallanzani",
+      "where": "Italy",
+      "country": "Italy",
+      "text": "Spallanzani caught wild bats, covered the eyes of some with an opaque coating and removed the eyes of one. They still flew without hitting obstacles and caught insects. He decided bats do not need sight to steer, but he could not say which sense they used. He published in 1794.",
+      "why": "It showed that eyes are not what guides a bat in the dark.",
+      "box": "call",
+      "sources": [
+        0,
+        21
+      ]
+    },
+    {
+      "year": 1798,
+      "date": "1798",
+      "era": "sense",
+      "art": "ear",
+      "title": "A Swiss naturalist plugs bats' ears",
+      "who": "Louis Jurine",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "Louis Jurine of Geneva heard about the experiments and tried plugging the ears of bats. They lost their way. Spallanzani repeated the test with better ear plugs and came to believe that hearing guided the flight. Jurine's results were published in 1798.",
+      "why": "It pointed at the ear, but nobody knew what a bat could hear that we cannot.",
+      "box": "decode",
+      "sources": [
+        21,
+        20
+      ]
+    },
+    {
+      "year": 1908,
+      "date": "1908",
+      "era": "sense",
+      "art": "person",
+      "title": "Hahn repeats the old experiments",
+      "who": "Walter Louis Hahn",
+      "where": "Indiana University, USA",
+      "country": "USA",
+      "text": "Hahn confirmed the findings of Spallanzani and Jurine. More than 30 years later Griffin repeated Hahn's obstacle tests and confirmed that bats with impaired hearing became disoriented.",
+      "why": "It kept the puzzle alive: hearing mattered, yet bats seemed to fly in silence.",
+      "sources": [
+        20,
+        0
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1912",
+      "era": "sense",
+      "art": "wave",
+      "title": "Maxim suggests bats steer by sound",
+      "who": "Hiram Maxim",
+      "where": "",
+      "country": "",
+      "text": "Hiram Maxim proposed, independently, that bats avoid obstacles by sound. He guessed the pitch was below the range of human hearing. We now know it is above.",
+      "why": "It was one of the first guesses that bats make a sound and listen for what comes back.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "1920",
+      "era": "sense",
+      "art": "soundwave",
+      "title": "Hartridge guesses the sound is above our hearing",
+      "who": "Hamilton Hartridge",
+      "where": "",
+      "country": "",
+      "text": "Hartridge proposed that bats use sounds pitched above the range of human hearing. His paper in the Journal of Physiology was titled \"The avoidance of objects by bats in their flight\". The idea could not be tested until a device to detect ultrasound existed.",
+      "why": "He had the right answer about 18 years before anyone could check it.",
+      "box": "call",
+      "sources": [
+        23,
+        6
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "November 1938",
+      "era": "sound",
+      "art": "microphone",
+      "key": true,
+      "title": "A physics professor's ultrasound detector picks up bats",
+      "who": "G. W. Pierce and Donald Griffin",
+      "where": "Harvard University, Cambridge, USA",
+      "country": "USA",
+      "text": "George Washington Pierce, a physics professor, had built equipment to make and detect sounds above human hearing. Griffin, a student who banded bats, brought bats to his lab. The apparatus clicked and rattled whenever the bats were active. They reported the cries in the Journal of Mammalogy but were careful about saying what the cries were for.",
+      "why": "It was the first proof that bats make sounds we cannot hear.",
+      "box": "call",
+      "sources": [
+        4,
+        0,
+        5
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "May 1939 to November 1940",
+      "era": "sound",
+      "art": "ear",
+      "key": true,
+      "title": "Galambos and Griffin show that bats steer by echoes",
+      "who": "Robert Galambos and Donald Griffin",
+      "where": "Harvard University, Cambridge, USA",
+      "country": "USA",
+      "text": "Galambos, a graduate student, recorded signals from bat ears and found their hearing reaches an octave or more above that of other animals. Together he and Griffin ran tests in which bats flew past obstacles. Every test pointed to the same answer: the bats shout, hear the echoes and steer by them. Their main paper came out in 1941.",
+      "why": "It solved a puzzle that had stood for about 150 years.",
+      "box": "echo",
+      "sources": [
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "year": 1944,
+      "date": "1944",
+      "era": "sound",
+      "art": "word",
+      "key": true,
+      "title": "Griffin gives the sense its name",
+      "who": "Donald Griffin",
+      "where": "Harvard University, Cambridge, USA",
+      "country": "USA",
+      "text": "Griffin's paper \"Echolocation by blind men, bats and radar\" appeared in the journal Science. It is the earliest use of the word \"echolocation\" in his bibliography. Many scientists of the day doubted that animals could do such a thing.",
+      "why": "A name made it a field of study.",
+      "box": "echo",
+      "sources": [
+        3,
+        22,
+        20
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "1946",
+      "era": "sound",
+      "art": "soundwave",
+      "title": "Bat calls turn out to be quick downward chirps",
+      "who": "Donald Griffin",
+      "where": "Cambridge, USA",
+      "country": "USA",
+      "text": "With a good condenser microphone and an oscilloscope, Griffin saw that bat cries were not noise bursts. They were chirps that swept down by about an octave in 1 or 2 milliseconds. Later work found that bats such as the little and big brown bat sweep from roughly 100 to 15 kilohertz.",
+      "why": "The shape of the call, not just its pitch, carries the information.",
+      "box": "call",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "1947",
+      "era": "more",
+      "art": "boat",
+      "title": "A Marineland curator suspects dolphin sonar",
+      "who": "Arthur McBride",
+      "where": "Marine Studios (Marineland), Florida, USA",
+      "country": "USA",
+      "text": "McBride noticed that bottlenose dolphins could avoid nets and find gaps in them at night and in murky water. He suspected they had a sonar of their own. He wrote about it in 1956.",
+      "why": "It opened the study of echolocation in the sea.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "more",
+      "art": "night",
+      "title": "Echolocation by a cave-dwelling bird",
+      "who": "Donald Griffin",
+      "where": "Cave of the Guacharos, near Caripe, Venezuela",
+      "country": "Venezuela",
+      "text": "Griffin visited a cave where oilbirds nest in total darkness. Simple field tests showed they find their way with a crude form of echolocation. Their clicks are low enough for people to hear, at around 2 kilohertz.",
+      "why": "It showed that echolocation is not only for bats.",
+      "sources": [
+        0,
+        26
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "more",
+      "art": "spotlight",
+      "key": true,
+      "title": "Griffin hears the hunting buzz",
+      "who": "Donald Griffin",
+      "where": "Cornell University, Ithaca, USA",
+      "country": "USA",
+      "text": "Griffin made a crude ultrasound detector from a portable radio and listened to big brown bats over a pond. The put-put-put sped up as a bat closed in on a moth or beetle, to a buzz of up to 200 pulses a second. Until then, people thought echolocation was only a collision alarm.",
+      "why": "It revealed that bats use echoes to catch small flying insects.",
+      "box": "hunt",
+      "sources": [
+        0,
+        8
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953 to 1955",
+      "era": "more",
+      "art": "earth",
+      "title": "Echolocation differs from bat to bat",
+      "who": "Donald Griffin and Alvin Novick",
+      "where": "Panama",
+      "country": "Panama",
+      "text": "Griffin took his equipment to Panama and found that the orientation sounds of bats that eat insects, fruit, fish or blood differ a great deal. Fruit bats seemed to fly silently until better microphones showed they make faint sounds.",
+      "why": "It showed that each kind of bat has its own style of echolocation.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "more",
+      "art": "boat",
+      "title": "Schevill and Lawrence study dolphin sound",
+      "who": "William Schevill and Barbara Lawrence",
+      "where": "Museum of Comparative Zoology, Harvard, USA",
+      "country": "USA",
+      "text": "The husband-and-wife team of William Schevill and Barbara Lawrence made some of the first recordings of porpoise and whale sounds. They also carried out some of the early studies of dolphin sonar.",
+      "why": "It laid groundwork for later proof of dolphin sonar.",
+      "sources": [
+        5,
+        25
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1960",
+      "era": "more",
+      "art": "storyboard",
+      "title": "Bats really do catch insects by echolocation",
+      "who": "Donald Griffin, Frederic Webster and Charles Michael",
+      "where": "Cambridge, USA",
+      "country": "USA",
+      "text": "Griffin's field recordings had left some critics unconvinced. A decade later, experiments with Frederic Webster settled it: some insect-eating bats use echolocation to catch small flying insects in the dark.",
+      "why": "It moved the field from \"can bats do it\" to \"what is it for\".",
+      "box": "hunt",
+      "sources": [
+        0,
+        3
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1960",
+      "era": "more",
+      "art": "scroll",
+      "title": "Spallanzani's unpublished notes are published",
+      "who": "Sven Dijkgraaf",
+      "where": "Utrecht, Netherlands",
+      "country": "Netherlands",
+      "text": "Dijkgraaf, a Dutch comparative physiologist, published an account of Spallanzani's unpublished experiments on how bats sense objects in the journal Isis.",
+      "why": "It filled in the story of the first experiments.",
+      "sources": [
+        19,
+        21
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "1961",
+      "era": "more",
+      "art": "boat",
+      "title": "A blindfolded dolphin swims a maze",
+      "who": "Kenneth Norris and colleagues",
+      "where": "USA",
+      "country": "USA",
+      "text": "Norris and his team put rubber suction cups over the eyes of a bottlenose dolphin. It still swam through a maze of hanging pipes and avoided obstacles while making clicks. They guessed the clicks leave through the forehead, or melon.",
+      "why": "It was the first conclusive demonstration of dolphin echolocation.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "war",
+      "art": "wing",
+      "title": "Moths with ears dodge bats",
+      "who": "K. D. Roeder and A. E. Treat",
+      "where": "",
+      "country": "",
+      "text": "Roeder and Treat showed that eared moths which dive or loop when they hear a bat are more likely to survive. Today we know moth ears evolved independently at least six times, and each one has only one to four sound-sensing cells.",
+      "why": "It was the first look at the moth side of the arms race.",
+      "box": "arms",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "brain",
+      "art": "tuningfork",
+      "key": true,
+      "title": "Horseshoe bats correct for their own speed",
+      "who": "Hans-Ulrich Schnitzler",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Schnitzler found that greater horseshoe bats lower the pitch of their call by about the amount that their own flight will raise the echo. That keeps the echo near the frequency they hear best, in a narrow band of the ear called the auditory fovea.",
+      "why": "It showed how a bat can read speed from a sound.",
+      "box": "doppler",
+      "sources": [
+        24,
+        18
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "era": "brain",
+      "art": "brain",
+      "key": true,
+      "title": "Bat cortex has a map of distance",
+      "who": "Nobuo Suga and William O'Neill",
+      "where": "Washington University, St. Louis, USA",
+      "country": "USA",
+      "text": "In the mustached bat, Suga and O'Neill found neurons in the auditory cortex that respond best when an echo arrives a particular time after the bat's own call. These cells are laid out in order of delay, so they form a map of target distance. A separate area has cells tuned to Doppler shift, which form a map of speed.",
+      "why": "It showed how the brain turns echo delay into distance.",
+      "box": "decode",
+      "sources": [
+        2,
+        6
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "brain",
+      "art": "spokes",
+      "title": "Call shape sorted by hunting style",
+      "who": "Hans-Ulrich Schnitzler and Elisabeth Kalko",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Schnitzler and Kalko proposed four functional groups of insect-eating bats and showed that the shape of their calls matches the tasks each group does. Kalko's field work, with flash photography of bats in flight and ultrasound recorders, set the standard for studying wild bats.",
+      "why": "It linked call design to where and how a bat hunts.",
+      "box": "call",
+      "sources": [
+        10,
+        9,
+        7
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "Winter 2006",
+      "era": "war",
+      "art": "snowflake",
+      "key": true,
+      "title": "White-nose syndrome is found in New York",
+      "who": "Researchers in New York",
+      "where": "East central New York, USA",
+      "country": "USA",
+      "text": "A photo from February 2006 shows hibernating bats with a white substance on their muzzles in a cave in east central New York. In March 2007, biologists saw unusual numbers of bats dying at five hibernation sites near Albany. The disease is caused by a fungus that infects bats while they hibernate.",
+      "why": "It was the start of one of the worst wildlife diseases ever recorded.",
+      "box": "arms",
+      "sources": [
+        17,
+        16
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "30 April 2008",
+      "era": "brain",
+      "art": "soundwave",
+      "title": "Bats cry out loud",
+      "who": "Annemarie Surlykke and Elisabeth Kalko",
+      "where": "Panama",
+      "country": "Panama",
+      "text": "Surlykke and Kalko recorded 11 insect-eating bat species in Panama. Most calls were about 122 to 134 decibels at 10 centimetres from the mouth. Two water-trawling Noctilio bats were the loudest, at about 137 decibels on average.",
+      "why": "It showed that bat calls are very loud, yet pitched above our hearing.",
+      "box": "call",
+      "sources": [
+        11,
+        13
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "war",
+      "art": "wing",
+      "key": true,
+      "title": "A tiger moth jams bat sonar",
+      "who": "Aaron Corcoran, Jesse Barber and William Conner",
+      "where": "Wake Forest University, USA",
+      "country": "USA",
+      "text": "The tiger moth Bertholdia trigona answers a bat's attack with bursts of clicks. A later study with big brown bats found that the bats often missed their prey by roughly 15 to 20 centimetres once they had met the clicking moth.",
+      "why": "It is the only animal known to jam the sonar of its predator.",
+      "box": "arms",
+      "sources": [
+        15,
+        14
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "war",
+      "art": "flask",
+      "title": "The white-nose fungus gets a name",
+      "who": "Researchers studying the disease",
+      "where": "United States",
+      "country": "USA",
+      "text": "The fungus found on the bats was formally named Geomyces destructans. It is now called Pseudogymnoascus destructans.",
+      "why": "Naming the cause let researchers track and test it.",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "19 August 2010",
+      "era": "war",
+      "art": "night",
+      "key": true,
+      "title": "A bat that whispers to hunt moths",
+      "who": "Holger Goerlitz, Hannah ter Hofstede and colleagues",
+      "where": "Bristol, England",
+      "country": "United Kingdom",
+      "text": "The rare barbastelle bat echolocates up to 100 times more quietly than other bats. Moths can hear most bats from more than 30 metres away, but the barbastelle can get as close as 3.5 metres without being heard. Its calls reach less far, which is the price of the trick.",
+      "why": "It showed that a bat can adapt its calls to moth hearing, at a cost in range.",
+      "box": "arms",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "July 2012",
+      "era": "war",
+      "art": "snowflake",
+      "title": "Millions of bats lost",
+      "who": "David Blehert",
+      "where": "Madison, USA",
+      "country": "USA",
+      "text": "A review by a U.S. Geological Survey scientist estimated that white-nose syndrome had killed more than 5 million insect-eating bats. It had reached 19 U.S. states and four Canadian provinces, and the fungus was also found on hibernating bats in at least 12 European countries.",
+      "why": "It showed how fast a disease of hibernating bats could spread.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "24 July 2013",
+      "era": "brain",
+      "art": "person",
+      "title": "A tribute to Elisabeth Kalko",
+      "who": "Cynthia Moss and Mariana Melcon",
+      "where": "USA",
+      "country": "USA",
+      "text": "A special journal issue marked the death of Kalko, who died on 26 September 2011 in Tanzania at age 49. Colleagues remembered her as a gifted naturalist whose work spanned echolocation, community ecology and bat-plant interactions. Griffin had called her the Jane Goodall of bats.",
+      "why": "It honoured one of the great field biologists of echolocation.",
+      "sources": [
+        7,
+        9
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First bat ultrasound detected",
+      "value": "1938",
+      "who": "G. W. Pierce and Donald Griffin, Harvard, USA"
+    },
+    {
+      "label": "Word \"echolocation\" in print",
+      "value": "1944",
+      "who": "Donald Griffin, USA"
+    },
+    {
+      "label": "Hunting buzz heard",
+      "value": "Up to 200 pulses/s, 1953",
+      "who": "Donald Griffin, Cornell, USA"
+    },
+    {
+      "label": "Conclusive dolphin echolocation test",
+      "value": "1961",
+      "who": "Kenneth Norris and colleagues, USA"
+    },
+    {
+      "label": "Moth shown to jam bat sonar",
+      "value": "2009",
+      "who": "Aaron Corcoran, Jesse Barber and William Conner"
+    }
+  ],
+  "people": [
+    {
+      "name": "Lazzaro Spallanzani",
+      "life": "1729 – 1799",
+      "role": "Italian biologist",
+      "from": "Italy",
+      "note": "Blinded bats and found that they still flew."
+    },
+    {
+      "name": "Louis Jurine",
+      "life": "",
+      "role": "Swiss physician and naturalist",
+      "from": "Switzerland",
+      "note": "Showed that bats with plugged ears lose their way."
+    },
+    {
+      "name": "Hamilton Hartridge",
+      "life": "1886 – 1976",
+      "role": "Physiologist",
+      "from": "England",
+      "note": "Correctly guessed in 1920 that bats use sound above human hearing."
+    },
+    {
+      "name": "George Washington Pierce",
+      "life": "",
+      "role": "Physics professor at Harvard",
+      "from": "United States",
+      "note": "Built the ultrasound detector that first picked up bat cries."
+    },
+    {
+      "name": "Donald Griffin",
+      "life": "1915 – 2003",
+      "role": "Zoologist",
+      "from": "United States",
+      "note": "Co-discovered bat echolocation, named it and heard the hunting buzz."
+    },
+    {
+      "name": "Robert Galambos",
+      "life": "1914 – 2010",
+      "role": "Neuroscientist",
+      "from": "United States",
+      "note": "Showed that bats hear far above the range of other animals."
+    },
+    {
+      "name": "Sven Dijkgraaf",
+      "life": "1908 – 1995",
+      "role": "Comparative physiologist",
+      "from": "Netherlands",
+      "note": "Published Spallanzani's unpublished bat experiments in 1960."
+    },
+    {
+      "name": "Barbara Lawrence",
+      "life": "1909 – 1997",
+      "role": "Mammalogist",
+      "from": "United States",
+      "note": "With William Schevill, made early recordings of porpoise and whale sounds."
+    },
+    {
+      "name": "Nobuo Suga",
+      "life": "born 1933",
+      "role": "Neuroscientist",
+      "from": "Japan",
+      "note": "Mapped how the mustached bat's cortex represents distance and speed."
+    },
+    {
+      "name": "Elisabeth Kalko",
+      "life": "1962 – 2011",
+      "role": "Bat ecologist",
+      "from": "Germany",
+      "note": "Pioneered field studies of how wild bats hunt by echolocation."
+    },
+    {
+      "name": "Annemarie Surlykke",
+      "life": "1955 – 2015",
+      "role": "Sensory physiologist",
+      "from": "Denmark",
+      "note": "Studied bat calls and moth hearing, and measured how loud bats really are."
+    }
+  ],
+  "series": [
+    {
+      "id": "wns",
+      "title": "How far white-nose syndrome had spread",
+      "unit": "US states",
+      "log": false,
+      "after": "war",
+      "caption": "From one cave in New York to nineteen U.S. states in six years.",
+      "points": [
+        {
+          "year": 2006,
+          "value": 1,
+          "label": "2006: first found, in New York"
+        },
+        {
+          "year": 2012,
+          "value": 19,
+          "label": "2012: 19 U.S. states and four Canadian provinces"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Bat calls recorded across species range from about 11 to 212 kilohertz, and measured loudness from about 60 to 140 decibels.",
+    "An echo delay of 1 millisecond means a target about 17 centimetres away.",
+    "Bottlenose dolphins can hear from about 100 hertz to 150 kilohertz, the widest range known for any mammal.",
+    "A moth's ear has only one to four sound-sensing cells, yet moths dive away from bats in time to survive.",
+    "The oilbird clicks at about 2 kilohertz, low enough for people to hear."
+  ],
+  "sources": [
+    {
+      "title": "Donald R. Griffin (autobiographical chapter)",
+      "publisher": "Society for Neuroscience, The History of Neuroscience in Autobiography, vol. 2",
+      "url": "https://www.sfn.org/-/media/SfN/Documents/TheHistoryofNeuroscience/Volume-2/c3.pdf"
+    },
+    {
+      "title": "Robert Galambos (autobiographical chapter)",
+      "publisher": "Society for Neuroscience, The History of Neuroscience in Autobiography, vol. 1",
+      "url": "https://www.sfn.org/-/media/SfN/Documents/TheHistoryofNeuroscience/Volume-1/c6.pdf"
+    },
+    {
+      "title": "Nobuo Suga (autobiographical chapter)",
+      "publisher": "Society for Neuroscience / Oxford University Press, The History of Neuroscience in Autobiography, vol. 6",
+      "url": "https://www.sfn.org/-/media/SfN/Documents/TheHistoryofNeuroscience/Volume-6/c13.pdf"
+    },
+    {
+      "title": "Donald R. Griffin, Biographical Memoirs vol. 86",
+      "publisher": "National Academy of Sciences (National Academies Press)",
+      "url": "https://www.nationalacademies.org/read/11429/chapter/11"
+    },
+    {
+      "title": "Experimental Determination of Supersonic Notes Emitted by Bats (G. W. Pierce and D. R. Griffin, 1938)",
+      "publisher": "Journal of Mammalogy, Oxford Academic",
+      "url": "https://academic.oup.com/jmammal/article-abstract/19/4/454/876159"
+    },
+    {
+      "title": "History of Dolphin Biosonar Research (Whitlow W. L. Au)",
+      "publisher": "Acoustical Society of America, Acoustics Today",
+      "url": "https://acousticstoday.org/wp-content/uploads/2015/11/Dolphin-Biosonar-Research.pdf"
+    },
+    {
+      "title": "Neural Processing of Naturalistic Echolocation Signals in Bats (Beetz and Hechavarria, 2022)",
+      "publisher": "Frontiers in Neural Circuits",
+      "url": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2022.899370/full"
+    },
+    {
+      "title": "Introduction to special issue, How nature shaped echolocation in animals (Moss and Melcon, 2013)",
+      "publisher": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2013.00193/full"
+    },
+    {
+      "title": "Interspecific acoustic recognition in two European bat communities (Dorado-Correa, Goerlitz and Siemers, 2013)",
+      "publisher": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2013.00192/full"
+    },
+    {
+      "title": "A tropical trail for \"Bat Woman\": STRI honours the late bat researcher Elisabeth Kalko",
+      "publisher": "Ulm University",
+      "url": "https://www.uni-ulm.de/en/university-news/news-details/article/ein-tropen-trail-fuer-bat-womanstri-ehrt-verstorbene-fledermausforscherin-elisabeth-kalko/"
+    },
+    {
+      "title": "Echolocation by Insect-Eating Bats (Schnitzler and Kalko, 2001)",
+      "publisher": "BioScience, Oxford Academic",
+      "url": "https://academic.oup.com/bioscience/article/51/7/557/228110"
+    },
+    {
+      "title": "Echolocating Bats Cry Out Loud to Detect Their Prey (Surlykke and Kalko, 2008)",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002036"
+    },
+    {
+      "title": "2010: Stealthy bats",
+      "publisher": "University of Bristol",
+      "url": "https://www.bristol.ac.uk/news/2010/7174.html"
+    },
+    {
+      "title": "Evolutionary escalation: the bat-moth arms race (ter Hofstede and Ratcliffe, 2016)",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://journals.biologists.com/jeb/article/219/11/1589/15159/Evolutionary-escalation-the-bat-moth-arms-race"
+    },
+    {
+      "title": "How Do Tiger Moths Jam Bat Sonar? (Corcoran, Barber, Hristov and Conner, 2011)",
+      "publisher": "Journal of Experimental Biology, via Boise State University ScholarWorks",
+      "url": "https://scholarworks.boisestate.edu/bio_facpubs/105/"
+    },
+    {
+      "title": "Tiger moths jam bat sonar",
+      "publisher": "Colorado State University",
+      "url": "https://newsmediarelations.colostate.edu/inthenews/tiger-moths-jam-bat-sonar/"
+    },
+    {
+      "title": "Fungal Disease and the Developing Story of Bat White-nose Syndrome (Blehert, 2012)",
+      "publisher": "PLOS Pathogens",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1002779"
+    },
+    {
+      "title": "White-nose Syndrome - Bats",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/subjects/bats/white-nose-syndrome.htm"
+    },
+    {
+      "title": "Different Auditory Feedback Control for Echolocation and Communication in Horseshoe Bats (Liu, Feng and Metzner, 2013)",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0062710"
+    },
+    {
+      "title": "S. Dijkgraaf (1908-1995), Catalogus Professorum",
+      "publisher": "Utrecht University Library",
+      "url": "https://profs.library.uu.nl/index.php/profrec/getprofdata/492/40/178/0"
+    },
+    {
+      "title": "Animal echolocation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Animal_echolocation"
+    },
+    {
+      "title": "Lazzaro Spallanzani",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lazzaro_Spallanzani"
+    },
+    {
+      "title": "Donald Griffin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donald_Griffin"
+    },
+    {
+      "title": "Hamilton Hartridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hamilton_Hartridge"
+    },
+    {
+      "title": "Doppler shift compensation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppler_shift_compensation"
+    },
+    {
+      "title": "Barbara Lawrence (zoologist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barbara_Lawrence_(zoologist)"
+    },
+    {
+      "title": "Oilbird",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oilbird"
+    }
+  ]
+}

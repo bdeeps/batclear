@@ -1,0 +1,110 @@
+{
+  "slug": "batclear",
+  "box": 242,
+  "date": "2026-12-09",
+  "title": "BatClear",
+  "question": "How do bats see with sound?",
+  "hook": "Bats shout in a pitch too high to hear and read the echoes as a picture. Watch a call become a distance, a speed and a direction, follow a hunt up to its terminal buzz, and see how moths fight back.",
+  "thumbText": "BATS SEE WITH SOUND",
+  "field": "nature",
+  "minutes": 16,
+  "tags": [
+    "bat",
+    "echolocation",
+    "ultrasound",
+    "sonar",
+    "doppler",
+    "moth",
+    "nature",
+    "biology",
+    "sound",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A shout we cannot hear",
+      "text": "A bat makes a very short pulse of ultrasound, mostly between about 20 and 120 kilohertz depending on the species, and often lasting a few milliseconds. Some species are very loud, roughly 100 to 140 decibels at 10 centimetres, yet it is above human hearing. The call may sweep down through many pitches (FM) or hold one pitch (CF)."
+    },
+    {
+      "title": "Delay becomes distance",
+      "text": "Sound travels at about 343 metres per second. An echo that returns after 1 millisecond comes from about 17 centimetres away, because range is the speed of sound times the delay, divided by two for the round trip. With the direction from two ears, each echo becomes a point in a picture."
+    },
+    {
+      "title": "Pitch becomes speed",
+      "text": "A bat flying at a target hears the echo at a higher pitch, the Doppler shift. Horseshoe bats lower their calls to cancel the shift from their own flight, so a still target returns the pitch they hear best. Any leftover shift reveals a moving target, such as a fluttering wing."
+    },
+    {
+      "title": "The hunt and the buzz",
+      "text": "A searching bat calls about 10 times a second. After it finds an insect, the calls speed up, and in the last moments the terminal buzz reaches roughly 150 to 200 calls a second, as commonly published. Each call is a fresh fix on a moving target."
+    },
+    {
+      "title": "Ears and a map in the brain",
+      "text": "Big ears and the tragus shape the sound, and tiny differences in time and loudness between the ears give direction. In the auditory cortex, neurons tuned to one call-to-echo delay form a map of distance. A wide FM sweep gives the finest range detail; a CF call is best for speed."
+    },
+    {
+      "title": "An arms race, and not blind",
+      "text": "Many moths have ears and dive when they hear a bat. Tiger moths click back to jam it, and some bats whisper. Dolphins and oilbirds echolocate too. Bats are not blind: they can see, and sonar adds to sight. White-nose syndrome, a fungus first found in New York in 2006, has killed millions of bats."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Echolocation",
+      "def": "Finding things by making a sound and listening to the echoes that come back."
+    },
+    {
+      "term": "Ultrasound",
+      "def": "Sound above about 20 kilohertz, higher than people can hear."
+    },
+    {
+      "term": "Echo delay",
+      "def": "The time between a call and its echo. About 1 ms per 17 cm of distance."
+    },
+    {
+      "term": "FM and CF calls",
+      "def": "Frequency-modulated calls sweep through pitches; constant-frequency calls hold one pitch."
+    },
+    {
+      "term": "Doppler shift",
+      "def": "A change in pitch caused by motion toward or away from the sound."
+    },
+    {
+      "term": "Doppler shift compensation",
+      "def": "Horseshoe bats lower their call so the echo lands on their best-hearing pitch."
+    },
+    {
+      "term": "Terminal buzz",
+      "def": "The final burst of very fast, short calls, roughly 150 to 200 a second, before a catch."
+    },
+    {
+      "term": "Tragus",
+      "def": "A small flap in front of the bat's ear canal that helps it judge direction."
+    },
+    {
+      "term": "Delay-tuned neuron",
+      "def": "A brain cell that responds most to an echo arriving a particular time after the call."
+    },
+    {
+      "term": "Stealth echolocation",
+      "def": "Very quiet calls that let a bat approach moths that can hear louder calls."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "batclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
